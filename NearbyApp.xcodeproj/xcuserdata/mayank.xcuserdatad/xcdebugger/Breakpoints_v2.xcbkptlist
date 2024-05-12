@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "60BFF8F7-598C-4405-8734-698E7DA7039C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "20D3496D-DFA0-4BAA-BD92-68E07A99E496"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NearbyApp/NearbyListingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "fetchListingData(lat:long:_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B02E1F8E-1D5B-4E1B-A885-9EED79874E05"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NearbyApp/NearbyListingViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "fetchData(using:long:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B02E1F8E-1D5B-4E1B-A885-9EED79874E05 - 8c24157b20ef4803"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for NearbyApp.ListingRepository.fetchData(using: Swift.String, long: Swift.String) async throws -&gt; NearbyApp.NearbyListingResponseModel"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mayank/Documents/NearbyApp/NearbyApp/NearbyListingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "B02E1F8E-1D5B-4E1B-A885-9EED79874E05 - 56236305cc05b717"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for NearbyApp.ListingRepository.fetchData(using: Swift.String, long: Swift.String) async throws -&gt; NearbyApp.NearbyListingResponseModel"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mayank/Documents/NearbyApp/NearbyApp/NearbyListingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "B02E1F8E-1D5B-4E1B-A885-9EED79874E05 - 3cc9fc6c90e40401"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for NearbyApp.ListingRepository.fetchData(using: Swift.String, long: Swift.String) async throws -&gt; NearbyApp.NearbyListingResponseModel"
+                  moduleName = "NearbyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mayank/Documents/NearbyApp/NearbyApp/NearbyListingViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6A1635C-A463-497C-B9E3-1D0C746705CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NearbyApp/Network/Core/NetworkProvider.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "executeRequest(request:response:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC8E92C0-18D8-4389-B1AC-895D0CD2C3DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NearbyApp/Network/Request/RequestBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "makeURLRequest(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96BEA078-947C-4C27-8D4D-F5E6EE1331F4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NearbyApp/Network/Request/RequestBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "makeURLRequest(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
